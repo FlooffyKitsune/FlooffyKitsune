@@ -8,7 +8,6 @@ I'm just a college student writing code and learning more everyday.
     <img alt="python" width="32em" height="32em" src="/assets/python.svg">
     <img alt="java" width="32em" height="32em" src="/assets/java.svg">
     <img alt="javascript" width="32em" height="32em" src="/assets/javascript.svg">
-    <img alt="c#" width="32em" height="32em" src="/assets/csharp.svg">
     <img alt="html" width="32em" height="32em" src="/assets/html5.svg">
     <img alt="css" width="32em" height="32em" src="/assets/css3.svg">
     <img alt="react" width="32em" height="32em" src="/assets/react.svg">
