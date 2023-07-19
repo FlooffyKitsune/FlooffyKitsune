@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm just a college student writing code and learning more everyday.
+Writing code and learning more everyday.
 
 ### Languages:
 
@@ -35,8 +35,8 @@ I'm just a college student writing code and learning more everyday.
 
 ### Links:
 <p>
-    <a href="https://discord.com/channels/@me">
-            <img alt="Discord" src="https://img.shields.io/static/v1?style=for-the-badge&logo=discord&logoColor=white&color=%237289DA&label=&message=WaffleCat%230101"/>
+    <a href="https://discord.com/channels/@me/226748972193153024">
+            <img alt="Discord" src="https://img.shields.io/static/v1?style=for-the-badge&logo=discord&logoColor=white&color=%237289DA&label=&message=wafflecat"/>
     </a>
         <a href="https://www.youtube.com/channel/UCOHkDQr6nzGeU84YY7ndiRw">
             <img alt="Youtube" src="https://img.shields.io/static/v1?style=for-the-badge&logo=youtube&logoColor=white&color=%23FF0000&label=&message=WaffleCat"/>
