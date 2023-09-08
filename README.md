@@ -11,6 +11,7 @@ Writing code and learning more everyday.
     <img alt="html" width="32em" height="32em" src="/assets/html5.svg">
     <img alt="css" width="32em" height="32em" src="/assets/css3.svg">
     <img alt="react" width="32em" height="32em" src="/assets/react.svg">
+    <img alt="svelte" width="32em" height="32em" src="/assets/svelte.svg">
     <img alt="jquery" width="32em" height="32em" src="/assets/jquery.svg">
     <img alt="wordpress" width="32em" height="32em" src="/assets/wordpress.svg">
     <img alt="php" width="32em" height="32em" src="/assets/php.svg">
