@@ -46,9 +46,3 @@ Writing code and learning more everyday.
             <img alt="Twitch" src="https://img.shields.io/static/v1?style=for-the-badge&logo=twitch&logoColor=white&color=%239146FF&label=&message=WaffleCat_"/>
     </a>
 </p>
-
-<hr style="height:1px; border:none; color:#ccc; background-color:#ccc;">
-
-<p>
-    <img alt="FlooffyKitsune's GitHub Stats" height="160em"  src="https://github-readme-stats.vercel.app/api?username=FlooffyKitsune&theme=tokyonight&show_icons=true">
-</p>
