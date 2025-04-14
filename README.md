@@ -33,16 +33,3 @@ Writing code and learning more everyday.
     <img alt="yarn" width="32em" height="32em" src="/assets/yarn.svg">
     <img alt="npm" width="32em" height="32em" src="/assets/npm.svg">
 </p>
-
-### Links:
-<p>
-    <a href="https://discord.com/channels/@me/226748972193153024">
-            <img alt="Discord" src="https://img.shields.io/static/v1?style=for-the-badge&logo=discord&logoColor=white&color=%237289DA&label=&message=wafflecat"/>
-    </a>
-        <a href="https://www.youtube.com/channel/UCOHkDQr6nzGeU84YY7ndiRw">
-            <img alt="Youtube" src="https://img.shields.io/static/v1?style=for-the-badge&logo=youtube&logoColor=white&color=%23FF0000&label=&message=WaffleCat"/>
-    </a>
-        <a href="https://www.twitch.tv/wafflecat_">
-            <img alt="Twitch" src="https://img.shields.io/static/v1?style=for-the-badge&logo=twitch&logoColor=white&color=%239146FF&label=&message=WaffleCat_"/>
-    </a>
-</p>
