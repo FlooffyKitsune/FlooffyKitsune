@@ -1,26 +1,43 @@
-# Hi there!
+# 🦊 hi. yes. hello.
 
-Writing code and learning more everyday.
+I'm **Jarrett Dominic**, also known as [@FlooffyKitsune](https://github.com/FlooffyKitsune). I write code. Sometimes intentionally.
 
-### Languages:
+I design and build things for the web. Some of them even work.  
+You can see a few of them here:  
+🔗 [jarrettdominic.dev](https://www.jarrettdominic.dev/)
+
+---
+
+## ⚒️ Tech I Use to Build, Break, and Blame Things
+
+### 🧠 Languages I've Argued With Successfully:
 
 <p>
     <img alt="python" width="32em" height="32em" src="/assets/python.svg">
+    <img alt="typescript" width="32em" height="32em" src="/assets/javascript.svg">
     <img alt="java" width="32em" height="32em" src="/assets/java.svg">
-    <img alt="javascript" width="32em" height="32em" src="/assets/javascript.svg">
     <img alt="html" width="32em" height="32em" src="/assets/html5.svg">
     <img alt="css" width="32em" height="32em" src="/assets/css3.svg">
-    <img alt="react" width="32em" height="32em" src="/assets/react.svg">
-    <img alt="svelte" width="32em" height="32em" src="/assets/svelte.svg">
-    <img alt="jquery" width="32em" height="32em" src="/assets/jquery.svg">
-    <img alt="wordpress" width="32em" height="32em" src="/assets/wordpress.svg">
     <img alt="php" width="32em" height="32em" src="/assets/php.svg">
-    <img alt="mysql" width="32em" height="32em" src="/assets/mysql.svg">
-    <img alt="arduino" width="32em" height="32em" src="/assets/arduino.svg">
     <img alt="lua" width="32em" height="32em" src="/assets/lua.svg">
 </p>
 
-### Tools:
+> No, I will not write C. Yes, even if you ask nicely.
+
+---
+
+### 🔮 Frameworks I Keep Gaslighting Into Functionality:
+
+<p>
+    <img alt="svelte" width="32em" height="32em" src="/assets/svelte.svg">
+    <img alt="react" width="32em" height="32em" src="/assets/react.svg">
+</p>
+
+> Don't ask how I made it work. I won't remember either.
+
+---
+
+### 🛠 Tools I Open, Panic In, and Close:
 
 <p>
     <img alt="vscode" width="32em" height="32em" src="/assets/vscode.svg">
@@ -33,3 +50,5 @@ Writing code and learning more everyday.
     <img alt="yarn" width="32em" height="32em" src="/assets/yarn.svg">
     <img alt="npm" width="32em" height="32em" src="/assets/npm.svg">
 </p>
+
+> Yes, I know I used both npm and yarn. No, I won’t explain myself.
