@@ -20,7 +20,7 @@ You can see a few of them here:
 
 ### 🔮 Frameworks I Keep Gaslighting Into Functionality:
 
-[![Frameworks](https://skillicons.dev/icons?i=svelte,react,nextjs,nuxtjs,oracle)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=svelte,react,nextjs,nuxtjs)](https://skillicons.dev)
 
 > Don't ask how I made it work. I won't remember either.
 
@@ -28,7 +28,7 @@ You can see a few of them here:
 
 ### 🌀 Platforms I Deploy To and Immediately Regret:
 
-[![Cloud Platforms](https://skillicons.dev/icons?i=vercel,aws,firebase,netlify)](https://skillicons.dev)
+[![Cloud Platforms](https://skillicons.dev/icons?i=vercel,aws,firebase,netlify,docker)](https://skillicons.dev)
 
 > "It works on my machine" – me, moments before Vercel said *no*.
 
@@ -44,6 +44,6 @@ You can see a few of them here:
 
 ### 🛠 Tools I Open, Panic In, and Close:
 
-[![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,blender,ps,ai,github,git,nodejs,yarn,npm,conda,notion)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,blender,ps,ai,github,git,nodejs,yarn,npm,notion)](https://skillicons.dev)
 
 > Yes, I know I used both npm and yarn. No, I won’t explain myself.
