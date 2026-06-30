@@ -2,8 +2,10 @@
 
 I'm **Jarrett Dominic**, also known as [@FlooffyKitsune](https://github.com/FlooffyKitsune). I write code. Sometimes intentionally.
 
-I design and build things for the web. Some of them even work.  
-You can see a few of them here:  
+I build web apps, games, and occasionally things that probably shouldn't be left running overnight.
+
+Some of them even work.
+
 🔗 [jarrettdominic.dev](https://www.jarrettdominic.dev/)
 
 ---
@@ -14,13 +16,15 @@ You can see a few of them here:
 
 [![Languages](https://skillicons.dev/icons?i=py,js,ts,java,html,css,php,lua)](https://skillicons.dev)
 
-> No, I will not write C. Yes, even if you ask nicely.
+> No, I will not write C.
+> Yes, I know it's fast.
+> No, this isn't a negotiation.
 
 ---
 
 ### 🔮 Frameworks I Keep Gaslighting Into Functionality:
 
-[![Frameworks](https://skillicons.dev/icons?i=svelte,react,nextjs,nuxtjs)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=astro,svelte,react,nextjs,nuxtjs)](https://skillicons.dev)
 
 > Don't ask how I made it work. I won't remember either.
 
@@ -38,12 +42,24 @@ You can see a few of them here:
 
 [![Databases](https://skillicons.dev/icons?i=supabase,prisma,mongodb,postgres,mysql)](https://skillicons.dev)
 
-> Databases are like relationships. I say I want structure, but I really just want Supabase to stop ghosting me during deploys.
+> Everything was fine until I touched the schema.
 
 ---
 
-### 🛠 Tools I Open, Panic In, and Close:
+### 🛠 Things Responsible for My Sleep Schedule:
 
-[![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,blender,ps,ai,github,git,nodejs,yarn,npm,notion)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,github,git,godot,blender,ps,ai)](https://skillicons.dev)
 
-> Yes, I know I used both npm and yarn. No, I won’t explain myself.
+> Every one of these has personally attacked me at least once.
+
+---
+
+## 🌱 Current Side Quests
+
+- Making my portfolio significantly more complicated than it needs to be.
+- Making a Godot game. That's all you get.
+- Building **Kitsu**, a persistent AI companion disguised as a VTuber project.
+
+---
+
+*There is always at least one fox-related project in progress.*
