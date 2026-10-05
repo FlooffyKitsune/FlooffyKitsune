@@ -6,8 +6,6 @@ I build web apps, games, and occasionally things that probably shouldn't be left
 
 Some of them even work.
 
-🔗 [jarrettdominic.dev](https://www.jarrettdominic.dev/)
-
 ---
 
 ## ⚒️ Tech I Use to Build, Break, and Blame Things
